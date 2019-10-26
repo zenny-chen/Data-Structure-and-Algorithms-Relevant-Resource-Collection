@@ -27,4 +27,5 @@
 1. [推荐系统中排序算法的发展历程总结](https://www.toutiao.com/a6742414337744306701/)
 1. [最短路径-Dijkstra算法和Floyd算法](https://www.toutiao.com/a6730185114266894856)
 1. [神奇的暴雪哈希算法](https://www.toutiao.com/a6745681287471694340/)
+1. [利用C语言写一个小程序——胖胖的爱心桃](https://www.toutiao.com/a6751694181795627523/)
 
