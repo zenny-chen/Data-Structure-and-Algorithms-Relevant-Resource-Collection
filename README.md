@@ -28,4 +28,5 @@
 1. [最短路径-Dijkstra算法和Floyd算法](https://www.toutiao.com/a6730185114266894856)
 1. [神奇的暴雪哈希算法](https://www.toutiao.com/a6745681287471694340/)
 1. [利用C语言写一个小程序——胖胖的爱心桃](https://www.toutiao.com/a6751694181795627523/)
+1. [为什么说快速排序是最快排序算法？](https://www.toutiao.com/a6751314863827452429/)
 
