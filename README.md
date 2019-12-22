@@ -6,6 +6,7 @@
 1. [\[Data Structure & Algorithm\] Hash那点事儿](https://www.cnblogs.com/maybe2030/p/4719267.html)
 1. [二维码的生成原理和工作原理](https://www.toutiao.com/i6610076801991442958)
 1. [B+树索引和Hash索引比较](https://www.toutiao.com/i6621134277289443848)
+1. [为什么数据库使用有序索引，而程序员却在使用哈希表？](https://www.toutiao.com/i6772835169763066375/)
 1. [如何找到字符串中的最长回文子串？](https://blog.csdn.net/csdnnews/article/details/82920678)
 1. [常用的八大排序算法——Java代码实现](https://www.toutiao.com/i6609876623455945219)
 1. [哈希算法的前世，今生和未来](https://www.toutiao.com/i6588799602516820487)
