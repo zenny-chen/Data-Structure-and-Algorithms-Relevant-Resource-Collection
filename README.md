@@ -14,6 +14,7 @@
 1. [学习后端必须掌握的算法：一致性Hash](https://www.toutiao.com/a6666428704681361931)
 1. [多阶Hash算法](https://www.toutiao.com/i6765283491094462988/)
 1. [「详细原理」蒙特卡洛树搜索入门教程](https://www.toutiao.com/a6788317604403479052/)
+1. [图解redis五种数据结构底层实现](https://www.toutiao.com/a6767152330870620676/)
 1. [究竟什么是位图？](https://www.toutiao.com/a6635969936416047629)
 1. [数据结构(2)：BitMap的基本原理和实现](https://www.toutiao.com/a6750056805243552270/)
 1. [细嚼慢咽布隆过滤器(Bloom Filter)](https://www.toutiao.com/a6696450926237975051)
