@@ -4,6 +4,7 @@
 <br />
 
 1. [\[Data Structure & Algorithm\] Hash那点事儿](https://www.cnblogs.com/maybe2030/p/4719267.html)
+1. [HashMap总结](https://www.toutiao.com/a6789806100687356423/)
 1. [二维码的生成原理和工作原理](https://www.toutiao.com/i6610076801991442958)
 1. [B+树索引和Hash索引比较](https://www.toutiao.com/i6621134277289443848)
 1. [为什么数据库使用有序索引，而程序员却在使用哈希表？](https://www.toutiao.com/i6772835169763066375/)
