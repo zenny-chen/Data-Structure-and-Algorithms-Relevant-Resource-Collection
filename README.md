@@ -32,6 +32,7 @@
 1. [电子工程师笔记，常用的C语言算法总结，值得转发收藏](https://www.toutiao.com/a6707810577844011524)
 1. [GitHub 标星 3w+，很全面的算法和数据结构知识](https://toutiao.com/group/6720885496702042638/)
 1. [算法--滑动窗口最大值数组](https://www.toutiao.com/i6723898482559549959)
+1. [四色猜想、七桥问题…程序员眼里的图论，了解下](https://www.toutiao.com/i6534572938727784968/)
 1. [图解算法：说一道字节跳动的算法题 | Android 向](https://www.toutiao.com/a6727186302137041416)
 1. [推荐系统中排序算法的发展历程总结](https://www.toutiao.com/a6742414337744306701/)
 1. [最短路径-Dijkstra算法和Floyd算法](https://www.toutiao.com/a6730185114266894856)
