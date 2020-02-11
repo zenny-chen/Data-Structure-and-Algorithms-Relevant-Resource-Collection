@@ -45,4 +45,25 @@
 1. [图优化理论基础](https://www.toutiao.com/i6508166080081428995/)
 1. [程序员求助：腾讯面试题，64匹马8个跑道，多少轮选出最快的四匹](https://www.toutiao.com/i6712396604751495684/)
 1. [为了更加安全稳定，美国军方禁止在C语言程序中使用malloc()](https://www.toutiao.com/i6702704178403213838/)
+1. [LeetCode基础算法题第175篇：求最大子数组的和](https://www.toutiao.com/a6773930629441520142/)
+
+本题正解：
+
+```c
+#define MAX(a, b)   (((a) > (b)) ? (a) : (b))
+
+int MaxSubArray(const int nums[], int numSize)
+{
+    int sum = 0, res = nums[0];
+    for(int i = 0; i < numSize; i++)
+    {
+        const int n = nums[i];
+        sum = MAX(sum + n, n);
+        res = MAX(res, sum);
+    }
+    
+    return res;
+}
+
+```
 
