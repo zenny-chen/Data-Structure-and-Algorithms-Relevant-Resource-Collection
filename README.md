@@ -28,6 +28,7 @@
 1. [数字信号处理中均值、方差、均方值、均方差计算和它们的物理意义](https://blog.csdn.net/wordwarwordwar/article/details/63251674)
 1. [快速傅里叶变换](https://blog.csdn.net/u012531536/article/details/82530285)
 1. [BAT 经典算法笔试题磁盘多路归并排序算法分析](https://www.toutiao.com/a6647346600018444813)
+1. [详解SkipList跳跃链表](https://www.toutiao.com/a6796096424116224516/)
 1. [算法与数据结构有什么用？用来面试么？来看看爬虫里面的算法](https://www.toutiao.com/a6697564360186790411)
 1. [如何只用2GB内存从20亿 40亿 80亿个整数中找到出现次数最多的数](https://www.toutiao.com/a6699568003001877000)
 1. [彩虹表知识点](https://www.toutiao.com/a6700345554993414659)
