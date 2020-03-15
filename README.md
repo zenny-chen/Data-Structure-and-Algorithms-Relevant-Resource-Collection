@@ -3,6 +3,7 @@
 
 <br />
 
+- [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 - [\[Data Structure & Algorithm\] Hash那点事儿](https://www.cnblogs.com/maybe2030/p/4719267.html)
 - [HashMap总结](https://www.toutiao.com/a6789806100687356423/)
 - [二维码的生成原理和工作原理](https://www.toutiao.com/i6610076801991442958)
