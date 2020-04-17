@@ -61,6 +61,7 @@
 - [LeetCode47，有重复元素的序列怎么求全排列？](https://www.toutiao.com/a6812387964971123203/)
 - [LeetCode48， 如何让矩阵原地旋转90度](https://www.toutiao.com/a6814792593088446979/)
 - [LeetCode 题解 | 78.子集](https://www.toutiao.com/a6813999174061654539/)
+- [LeetCode 题解 | 116. 填充每个节点的下一个右侧节点指针](https://www.toutiao.com/a6816523994578027020/)
 - [LeetCode 题解 | 137. 只出现一次的数字 II](https://www.toutiao.com/a6805077505867776516/)
 - [刷leetcode——力扣300——最长上升子序列](https://www.toutiao.com/a6781427623433077251/)
 - [LeetCode基础算法题第175篇：求最大子数组的和](https://www.toutiao.com/a6773930629441520142/)
