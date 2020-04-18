@@ -63,6 +63,7 @@
 - [LeetCode 题解 | 78.子集](https://www.toutiao.com/a6813999174061654539/)
 - [LeetCode 题解 | 116. 填充每个节点的下一个右侧节点指针](https://www.toutiao.com/a6816523994578027020/)
 - [LeetCode 题解 | 137. 只出现一次的数字 II](https://www.toutiao.com/a6805077505867776516/)
+- [LeetCode基础算法题第153篇：分糖果问题II](https://www.toutiao.com/a6725252066148631051/)
 - [刷leetcode——力扣300——最长上升子序列](https://www.toutiao.com/a6781427623433077251/)
 - [LeetCode基础算法题第175篇：求最大子数组的和](https://www.toutiao.com/a6773930629441520142/)
 
