@@ -4,6 +4,7 @@
 <br />
 
 - [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
+- [信号的自相关](https://www.toutiao.com/a6820477114291061251/)
 - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
 - [Array of Structures vs Structure of Arrays](https://blog.csdn.net/ryfdizuo/article/details/9876289)
 - [\[Data Structure & Algorithm\] Hash那点事儿](https://www.cnblogs.com/maybe2030/p/4719267.html)
@@ -67,6 +68,7 @@
 - [LeetCode 题解 | 137. 只出现一次的数字 II](https://www.toutiao.com/a6805077505867776516/)
 - [LeetCode基础算法题第153篇：分糖果问题II](https://www.toutiao.com/a6725252066148631051/)
 - [力扣227——227. 基本计算器 II](https://www.toutiao.com/a6802777591641014791/)
+- [LeetCode 题解 | 279. 完全平方数](https://www.toutiao.com/a6820340627813696008/)
 - [刷leetcode——力扣300——最长上升子序列](https://www.toutiao.com/a6781427623433077251/)
 - [LeetCode基础算法题第175篇：求最大子数组的和](https://www.toutiao.com/a6773930629441520142/)
 
