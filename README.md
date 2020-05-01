@@ -25,6 +25,7 @@
 - [最短路径-Dijkstra算法和Floyd算法](https://www.toutiao.com/a6730185114266894856)
 - [看完就彻底懂了红黑树！红黑树的插入、删除、左旋、右旋](https://www.toutiao.com/a6771578008592450061/)
 - [索引实现靠的是树，你知道么？](https://www.toutiao.com/a6783604636193391108/)
+- [四十行代码实现并查集，你也一定可以学会](https://www.toutiao.com/a6821479403835359751/)
 - [如何找到字符串中的最长回文子串？](https://blog.csdn.net/csdnnews/article/details/82920678)
 - [常用的八大排序算法——Java代码实现](https://www.toutiao.com/i6609876623455945219)
 - [「详细原理」蒙特卡洛树搜索入门教程](https://www.toutiao.com/a6788317604403479052/)
@@ -71,6 +72,12 @@
 - [力扣227——227. 基本计算器 II](https://www.toutiao.com/a6802777591641014791/)
 - [LeetCode 题解 | 279. 完全平方数](https://www.toutiao.com/a6820340627813696008/)
 - [刷leetcode——力扣300——最长上升子序列](https://www.toutiao.com/a6781427623433077251/)
+- [刷leetcode399——除法求值](https://www.toutiao.com/a6788855826237882891/)
+- [力扣438——找到字符串中所有字母异位词](https://www.toutiao.com/a6792093022675796492/)
+- [力扣494——目标和](https://www.toutiao.com/a6794653825224409604/)
+- [力扣560——和为K的子数组](https://www.toutiao.com/a6794967020635947534/)
+- [力扣621——任务调度器](https://www.toutiao.com/a6795724124036530695/)
+- [力扣739——每日温度](https://www.toutiao.com/a6796891527403536909/)
 - [LeetCode基础算法题第175篇：求最大子数组的和](https://www.toutiao.com/a6773930629441520142/)
 
 本题正解：
