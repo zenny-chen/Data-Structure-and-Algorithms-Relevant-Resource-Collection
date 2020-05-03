@@ -4,11 +4,12 @@
 <br />
 
 - [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
+- [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
 - [信号的自相关](https://www.toutiao.com/a6820477114291061251/)
 - [数字信号处理中均值、方差、均方值、均方差计算和它们的物理意义](https://blog.csdn.net/wordwarwordwar/article/details/63251674)
 - [快速傅里叶变换](https://blog.csdn.net/u012531536/article/details/82530285)
 - [频谱为什么会泄漏？](https://www.toutiao.com/a6788812208227746317/)
-- [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
+- [蒙特卡洛马尔可夫链学习小结](https://www.toutiao.com/a6822456838559105540/)
 - [Array of Structures vs Structure of Arrays](https://blog.csdn.net/ryfdizuo/article/details/9876289)
 - [\[Data Structure & Algorithm\] Hash那点事儿](https://www.cnblogs.com/maybe2030/p/4719267.html)
 - [HashMap总结](https://www.toutiao.com/a6789806100687356423/)
