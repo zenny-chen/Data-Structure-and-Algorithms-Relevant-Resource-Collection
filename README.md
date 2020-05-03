@@ -46,6 +46,7 @@
 - [电子工程师笔记，常用的C语言算法总结，值得转发收藏](https://www.toutiao.com/a6707810577844011524)
 - [GitHub 标星 3w+，很全面的算法和数据结构知识](https://toutiao.com/group/6720885496702042638/)
 - [动态编程-第1部分](https://www.toutiao.com/a6820867901092790787/)
+- [机器人动态规划(Dynamic Programming)入门](https://www.toutiao.com/a6822206094392164878/)
 - [算法--滑动窗口最大值数组](https://www.toutiao.com/i6723898482559549959)
 - [超详细！从本质上搞懂困惑你多年的KMP匹配算法](https://www.toutiao.com/a6798774228393918988/)
 - [四色猜想、七桥问题…程序员眼里的图论，了解下](https://www.toutiao.com/i6534572938727784968/)
