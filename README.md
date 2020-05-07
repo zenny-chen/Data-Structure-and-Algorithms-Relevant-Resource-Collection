@@ -66,6 +66,7 @@
 - [美团面试官问我如何查询附近商家，我这样说可以怼翻他！](https://www.toutiao.com/a6817003686108070414/)
 - [一起刷LeetCode-num01](https://mp.weixin.qq.com/s/zz3WQvnwoGLg58SCRn7YjA)
 - [LeetCode刷题--无重复字符的最长子串](https://www.toutiao.com/a6799246199313400332/)
+- [一道LeetCode（40）带我们深入搜索算法中的剪枝和策略](https://www.toutiao.com/i6804264996227252743/)
 - [LeetCode47，有重复元素的序列怎么求全排列？](https://www.toutiao.com/a6812387964971123203/)
 - [LeetCode48， 如何让矩阵原地旋转90度](https://www.toutiao.com/a6814792593088446979/)
 - [LeetCode 题解 | 78.子集](https://www.toutiao.com/a6813999174061654539/)
