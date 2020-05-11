@@ -64,6 +64,7 @@
 - [面试刷题：经典算法思想之回溯法 | 第88期](https://www.toutiao.com/a6821776909420986894/)
 - [LRU从实现到应用层层剖析](https://www.toutiao.com/a6814994327425516036/)
 - [美团面试官问我如何查询附近商家，我这样说可以怼翻他！](https://www.toutiao.com/a6817003686108070414/)
+- [一种统治所有规则的算法](https://www.toutiao.com/a6825306743799546372/)
 - [「算法」三数之和](https://www.toutiao.com/a6824711640957583879/)
 - [一起刷LeetCode-num01](https://mp.weixin.qq.com/s/zz3WQvnwoGLg58SCRn7YjA)
 - [LeetCode刷题--无重复字符的最长子串](https://www.toutiao.com/a6799246199313400332/)
