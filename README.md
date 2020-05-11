@@ -68,6 +68,7 @@
 - [「算法」三数之和](https://www.toutiao.com/a6824711640957583879/)
 - [一起刷LeetCode-num01](https://mp.weixin.qq.com/s/zz3WQvnwoGLg58SCRn7YjA)
 - [LeetCode刷题--无重复字符的最长子串](https://www.toutiao.com/a6799246199313400332/)
+- [LeetCode 题解 | 力扣杯 LCP 06. 拿硬币](https://www.toutiao.com/a6825422369729806851/)
 - [一道LeetCode（40）带我们深入搜索算法中的剪枝和策略](https://www.toutiao.com/i6804264996227252743/)
 - [LeetCode47，有重复元素的序列怎么求全排列？](https://www.toutiao.com/a6812387964971123203/)
 - [LeetCode48， 如何让矩阵原地旋转90度](https://www.toutiao.com/a6814792593088446979/)
