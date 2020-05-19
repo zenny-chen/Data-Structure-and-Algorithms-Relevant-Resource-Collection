@@ -66,6 +66,7 @@
 - [美团面试官问我如何查询附近商家，我这样说可以怼翻他！](https://www.toutiao.com/a6817003686108070414/)
 - [一种统治所有规则的算法](https://www.toutiao.com/a6825306743799546372/)
 - [「算法」三数之和](https://www.toutiao.com/a6824711640957583879/)
+- [动态规划连刷两题，一个小技巧简化代码](https://www.toutiao.com/a6828339776404324868/)
 - [一起刷LeetCode-num01](https://mp.weixin.qq.com/s/zz3WQvnwoGLg58SCRn7YjA)
 - [LeetCode刷题--无重复字符的最长子串](https://www.toutiao.com/a6799246199313400332/)
 - [LeetCode 题解 | 力扣杯 LCP 06. 拿硬币](https://www.toutiao.com/a6825422369729806851/)
