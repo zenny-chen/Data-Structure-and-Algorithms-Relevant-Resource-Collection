@@ -76,6 +76,7 @@
 - [一道LeetCode（40）带我们深入搜索算法中的剪枝和策略](https://www.toutiao.com/i6804264996227252743/)
 - [LeetCode47，有重复元素的序列怎么求全排列？](https://www.toutiao.com/a6812387964971123203/)
 - [LeetCode48， 如何让矩阵原地旋转90度](https://www.toutiao.com/a6814792593088446979/)
+- [LeetCode 73，教你做人，第一反应想到的解法也许是个坑](https://www.toutiao.com/a6833929824008929800/)
 - [LeetCode 题解 | 78.子集](https://www.toutiao.com/a6813999174061654539/)
 - [LeetCode 题解 | 116. 填充每个节点的下一个右侧节点指针](https://www.toutiao.com/a6816523994578027020/)
 - [LeetCode 题解 | 137. 只出现一次的数字 II](https://www.toutiao.com/a6805077505867776516/)
