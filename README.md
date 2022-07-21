@@ -33,6 +33,7 @@
 - [B+树索引和Hash索引比较](https://www.toutiao.com/i6621134277289443848)
 - [索引设计（索引组织方式 B+ 树）](https://www.toutiao.com/i6888575934387978755/)
 - [翻转二叉树的多种解决方式](https://www.toutiao.com/i6896461238625206795/)
+- [技术文章：纳什均衡与决策树的新剪枝算法](https://www.toutiao.com/article/7122388922822492710/)
 - [号称最贪心的算法--Dijkstra算法](https://www.toutiao.com/a6747955740704522760/)
 - [最短路径-Dijkstra算法和Floyd算法](https://www.toutiao.com/a6730185114266894856)
 - [10行代码实现的最短路算法—Bellmanford与SPFA](https://www.toutiao.com/a6868462514028413447/)
