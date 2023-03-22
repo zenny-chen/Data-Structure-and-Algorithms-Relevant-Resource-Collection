@@ -27,6 +27,7 @@
 - [hash碰撞的概率和可能性比你直觉中大得多](https://www.toutiao.com/a6814310785477509636/)
 - [学习后端必须掌握的算法：一致性Hash](https://www.toutiao.com/a6666428704681361931)
 - [多阶Hash算法](https://www.toutiao.com/i6765283491094462988/)
+- [C++中的HashTable性能优化](https://www.toutiao.com/article/7212883113138045472/)
 - [十分钟掌握高性能哈希算法MurmurHash](https://www.toutiao.com/a6761801088178848269/)
 - [神奇的暴雪哈希算法](https://www.toutiao.com/a6745681287471694340/)
 - [为什么数据库使用有序索引，而程序员却在使用哈希表？](https://www.toutiao.com/i6772835169763066375/)
