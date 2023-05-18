@@ -63,6 +63,7 @@
 - [算法--滑动窗口最大值数组](https://www.toutiao.com/i6723898482559549959)
 - [超详细！从本质上搞懂困惑你多年的KMP匹配算法](https://www.toutiao.com/a6798774228393918988/)
 - [四色猜想、七桥问题…程序员眼里的图论，了解下](https://www.toutiao.com/i6534572938727784968/)
+- [看一遍就学会的“图计算”入门指南](https://www.toutiao.com/article/7234045866200531513/)
 - [图优化理论基础](https://www.toutiao.com/i6508166080081428995/)
 - [图中的谱聚类详解](https://zhuanlan.zhihu.com/p/266604288)
 - [什么是“并查集”？](https://www.toutiao.com/a6866972946481709571/)
