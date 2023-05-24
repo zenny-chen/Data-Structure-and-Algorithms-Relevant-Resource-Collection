@@ -6,6 +6,7 @@
 - [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 - [roofalison的专栏](http://blog.csdn.net/roofalison)
 - [madaxin的博客](https://blog.csdn.net/madaxin)
+- [ROBERT SEDGEWICK](https://sedgewick.io/ideas/)
 - [微软程序员“玩”出新花样，求平均值代码还能这样写？](https://blog.csdn.net/csdnnews/article/details/123040610)
 - [懂了数据结构框架思维，一切算法不过是纸老虎](https://www.toutiao.com/i6891161141540553227/)
 - [越来越难？这届开发者学不会的计算机理论](https://csdnnews.blog.csdn.net/article/details/121560676)
