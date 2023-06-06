@@ -93,6 +93,7 @@
 - [程序员腾讯面试，倒在警察抓小偷逻辑题上](https://www.toutiao.com/a6664913656876106243)
 - [动态规划连刷两题，一个小技巧简化代码](https://www.toutiao.com/a6828339776404324868/)
 - [345，超级次方](https://www.toutiao.com/a6876786168118444552/)
+- [AI辅助在独立游戏开发中的“踩坑”经验](https://mp.weixin.qq.com/s?__biz=MzI3MTQzOTY3OQ==&mid=2247531045&idx=1&sn=f8e850504b6785cef7e177f6ae925291)
 - [一起刷LeetCode-num01](https://mp.weixin.qq.com/s/zz3WQvnwoGLg58SCRn7YjA)
 - [LeetCode刷题--无重复字符的最长子串](https://www.toutiao.com/a6799246199313400332/)
 - [LeetCode 题解 | 力扣杯 LCP 06. 拿硬币](https://www.toutiao.com/a6825422369729806851/)
