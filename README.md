@@ -3,6 +3,15 @@
 
 <br />
 
+## 目录
+
+- [一般收集](#general_collection)
+- [用三只老鼠测八根试管中的一根毒试管的问题](#tube_test_with_mice)
+
+<br />
+
+## <a name="general_collection"></a> 一般收集
+
 - [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
 - [roofalison的专栏](http://blog.csdn.net/roofalison)
 - [madaxin的博客](https://blog.csdn.net/madaxin)
@@ -137,4 +146,12 @@ int MaxSubArray(const int nums[], int numSize)
 }
 
 ```
+
+<br />
+
+## <a name="tube_test_with_mice"></a> 用三只老鼠测八根试管中的一根毒试管的问题
+
+有 **8** 根试管，其中 **只有一根** 试管是有毒的。现在有 **3** 只小白鼠。我们可以通过让小白鼠尝试饮用某一根或某几根试管中混合出来的试剂来测试哪一根试管有毒。现在要求：每只小白鼠只能饮用一次试剂，那如何让这些小白鼠同时饮用安排好的试剂来一次性测试出哪根试管有毒？
+
+
 
