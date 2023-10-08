@@ -20,6 +20,7 @@
 - [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
 - [The Algorithms - C](https://github.com/TheAlgorithms/C)
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
+- [Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm)
 - [微软程序员“玩”出新花样，求平均值代码还能这样写？](https://blog.csdn.net/csdnnews/article/details/123040610)
 - [懂了数据结构框架思维，一切算法不过是纸老虎](https://www.toutiao.com/i6891161141540553227/)
 - [越来越难？这届开发者学不会的计算机理论](https://csdnnews.blog.csdn.net/article/details/121560676)
