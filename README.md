@@ -44,6 +44,8 @@
 - [索引设计（索引组织方式 B+ 树）](https://www.toutiao.com/i6888575934387978755/)
 - [翻转二叉树的多种解决方式](https://www.toutiao.com/i6896461238625206795/)
 - [技术文章：纳什均衡与决策树的新剪枝算法](https://www.toutiao.com/article/7122388922822492710/)
+- [KD树简介](https://zhuanlan.zhihu.com/p/53826008)
+- [BVH树的构建](https://zhuanlan.zhihu.com/p/114307697)
 - [背包问题算法全解析：动态规划和贪心算法详解](https://www.toutiao.com/article/7226657148191719948/)
 - [号称最贪心的算法--Dijkstra算法](https://www.toutiao.com/a6747955740704522760/)
 - [最短路径-Dijkstra算法和Floyd算法](https://www.toutiao.com/a6730185114266894856)
