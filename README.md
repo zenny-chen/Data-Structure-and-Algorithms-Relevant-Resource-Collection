@@ -40,6 +40,7 @@
 - [十分钟掌握高性能哈希算法MurmurHash](https://www.toutiao.com/a6761801088178848269/)
 - [神奇的暴雪哈希算法](https://www.toutiao.com/a6745681287471694340/)
 - [为什么数据库使用有序索引，而程序员却在使用哈希表？](https://www.toutiao.com/i6772835169763066375/)
+- [DFS详解](https://blog.csdn.net/qq_52905520/article/details/126100694)（深度优先遍历）
 - [B+树索引和Hash索引比较](https://www.toutiao.com/i6621134277289443848)
 - [索引设计（索引组织方式 B+ 树）](https://www.toutiao.com/i6888575934387978755/)
 - [翻转二叉树的多种解决方式](https://www.toutiao.com/i6896461238625206795/)
