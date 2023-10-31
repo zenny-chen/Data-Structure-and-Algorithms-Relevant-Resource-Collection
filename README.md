@@ -96,6 +96,7 @@
 - [为什么你学不过动态规划？告别动态规划，谈谈我的经验](https://blog.csdn.net/m0_37907797/article/details/103231054)
 - [回溯算法：组合问题如何剪枝？](https://www.toutiao.com/i6888662524376384012/)
 - [Standard way to normalize an angle to +/- π radians in Java](https://stackoverflow.com/questions/24234609/standard-way-to-normalize-an-angle-to-π-radians-in-java)
+- [《现代体系结构的优化编译器》第7章后半部分的算法有哪些易被忽略的细节？](https://www.zhihu.com/question/628036643/answer/3266876909)
 - [阿里大牛谈垃圾回收算法是如何设计的？](https://www.toutiao.com/i6896369834544742923/)
 - [程序员求助：腾讯面试题，64匹马8个跑道，多少轮选出最快的四匹](https://www.toutiao.com/i6712396604751495684/)
 - [为了更加安全稳定，美国军方禁止在C语言程序中使用malloc()](https://www.toutiao.com/i6702704178403213838/)
