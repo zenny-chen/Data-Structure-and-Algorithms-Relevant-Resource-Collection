@@ -84,6 +84,7 @@
 - [四色猜想、七桥问题…程序员眼里的图论，了解下](https://www.toutiao.com/i6534572938727784968/)
 - [看一遍就学会的“图计算”入门指南](https://www.toutiao.com/article/7234045866200531513/)
 - [图优化理论基础](https://www.toutiao.com/i6508166080081428995/)
+- [探索Erdős–Rényi随机图模型：网络理论的基石](https://www.toutiao.com/article/7303746858910908954/)
 - [图中的谱聚类详解](https://zhuanlan.zhihu.com/p/266604288)
 - [什么是“并查集”？](https://www.toutiao.com/a6866972946481709571/)
 - [四十行代码实现并查集，你也一定可以学会](https://www.toutiao.com/a6821479403835359751/)
