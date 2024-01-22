@@ -28,6 +28,7 @@
 - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
 - [二维码生成和读取识别原理](https://www.toutiao.com/article/7096338042847330851/)
 - [二维码的生成原理和工作原理](https://www.toutiao.com/i6610076801991442958)
+- [目前世界上使用最广的控制算法-PID的大白话理解及数学原理C代码](https://www.toutiao.com/article/7325689923376251392/)
 - [Array of Structures vs Structure of Arrays](https://blog.csdn.net/ryfdizuo/article/details/9876289)
 - [\[Data Structure & Algorithm\] Hash那点事儿](https://www.cnblogs.com/maybe2030/p/4719267.html)
 - [HashMap总结](https://www.toutiao.com/a6789806100687356423/)
