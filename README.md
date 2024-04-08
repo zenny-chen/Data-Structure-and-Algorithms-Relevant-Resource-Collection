@@ -28,6 +28,10 @@
 - [香农（奈奎斯特）采样定理](https://baike.baidu.com/item/%E9%A6%99%E5%86%9C%E9%87%87%E6%A0%B7%E5%AE%9A%E7%90%86/7259506)
 - [德·摩根定律（Demorgan）](https://baike.baidu.com/item/%E5%BE%B7%C2%B7%E6%91%A9%E6%A0%B9%E5%AE%9A%E5%BE%8B/489073)
 - [数字逻辑：卡诺图详解](https://blog.csdn.net/LI_XIAO_XING/article/details/120283287)
+- 用“与或非”来实现“异或”计算：
+```c
+int xor(int a, int b) { return (a | b) & ~(a & b); }
+```
 - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
 - [二维码生成和读取识别原理](https://www.toutiao.com/article/7096338042847330851/)
 - [二维码的生成原理和工作原理](https://www.toutiao.com/i6610076801991442958)
