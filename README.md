@@ -29,7 +29,7 @@
 - [德·摩根定律（Demorgan）](https://baike.baidu.com/item/%E5%BE%B7%C2%B7%E6%91%A9%E6%A0%B9%E5%AE%9A%E5%BE%8B/489073)
 - [数字逻辑：卡诺图详解](https://blog.csdn.net/LI_XIAO_XING/article/details/120283287)
 - 用“与或非”来实现“异或”计算：
-```c
+```csharp
 int xor(int a, int b) { return (a | b) & ~(a & b); }
 ```
 - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
