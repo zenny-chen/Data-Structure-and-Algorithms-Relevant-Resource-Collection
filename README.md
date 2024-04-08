@@ -31,10 +31,7 @@
 - 用“与或非”来实现“异或”计算：
 
 ```cpp
-int xor(int a, int b)
-{
-    return (a | b) & ~(a & b);
-}
+int xor(int a, int b){ return (a | b) & ~(a & b); }
 ```
 
 - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
