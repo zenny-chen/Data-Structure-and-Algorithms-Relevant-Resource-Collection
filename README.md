@@ -30,7 +30,7 @@
 - [数字逻辑：卡诺图详解](https://blog.csdn.net/LI_XIAO_XING/article/details/120283287)
 - 用“与或非”来实现“异或”计算：
 
-```c
+```cpp
 int xor(int a, int b)
 {
     return (a | b) & ~(a & b);
