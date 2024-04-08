@@ -30,7 +30,10 @@
 - [数字逻辑：卡诺图详解](https://blog.csdn.net/LI_XIAO_XING/article/details/120283287)
 - 用“与或非”来实现“异或”计算：
 ```csharp
-int xor(int a, int b) { return (a | b) & ~(a & b); }
+int xor(int a, int b)
+{
+    return (a | b) & ~(a & b);
+}
 ```
 - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
 - [二维码生成和读取识别原理](https://www.toutiao.com/article/7096338042847330851/)
