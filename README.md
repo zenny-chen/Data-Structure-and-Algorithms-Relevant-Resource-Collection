@@ -16,7 +16,7 @@
 - [roofalison的专栏](http://blog.csdn.net/roofalison)
 - [madaxin的博客](https://blog.csdn.net/madaxin)
 - [ROBERT SEDGEWICK](https://sedgewick.io/ideas/)
-- [hello-algo](https://github.com/krahets/hello-algo)
+- [hello-algo](https://www.hello-algo.com/)
 - [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
 - [The Algorithms - C](https://github.com/TheAlgorithms/C)
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
