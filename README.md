@@ -84,6 +84,7 @@ int xor(int a, int b){ return (a | b) & ~(a & b); }
 - [算法与数据结构有什么用？用来面试么？来看看爬虫里面的算法](https://www.toutiao.com/a6697564360186790411)
 - [如何只用2GB内存从20亿 40亿 80亿个整数中找到出现次数最多的数](https://www.toutiao.com/a6699568003001877000)
 - [彩虹表知识点](https://www.toutiao.com/a6700345554993414659)
+- [两个老头儿写的神奇算法，统治了全世界！](https://www.toutiao.com/article/7367595569432298024/)
 - [算法背后的数学原理](https://www.toutiao.com/i6531148094367597069/)
 - [一篇文章彻底学会递归思路解题](https://www.toutiao.com/a6794029275667235332/)
 - [电子工程师笔记，常用的C语言算法总结，值得转发收藏](https://www.toutiao.com/a6707810577844011524)
