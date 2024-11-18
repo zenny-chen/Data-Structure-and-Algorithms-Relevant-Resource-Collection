@@ -35,6 +35,7 @@
 int xor(int a, int b){ return (a | b) & ~(a & b); }
 ```
 
+- [单片机ADC常用的十大滤波算法(C语言）](https://www.toutiao.com/article/7438078953576841782/)
 - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
 - [二维码生成和读取识别原理](https://www.toutiao.com/article/7096338042847330851/)
 - [二维码的生成原理和工作原理](https://www.toutiao.com/i6610076801991442958)
