@@ -40,6 +40,7 @@ int xor(int a, int b){ return (a | b) & ~(a & b); }
 - [二维码的生成原理和工作原理](https://www.toutiao.com/i6610076801991442958)
 - [目前世界上使用最广的控制算法-PID的大白话理解及数学原理C代码](https://www.toutiao.com/article/7325689923376251392/)
 - [Lerp 插值函数（Lerp）](https://blog.csdn.net/qq_20179331/article/details/130612493)
+- [向量空间模型](https://zhuanlan.zhihu.com/p/648593100)
 - [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
 - [Array of Structures vs Structure of Arrays](https://blog.csdn.net/ryfdizuo/article/details/9876289)
 - [\[Data Structure & Algorithm\] Hash那点事儿](https://www.cnblogs.com/maybe2030/p/4719267.html)
