@@ -67,6 +67,7 @@ int xor(int a, int b){ return (a | b) & ~(a & b); }
 - [号称最贪心的算法--Dijkstra算法](https://www.toutiao.com/a6747955740704522760/)
 - [最短路径-Dijkstra算法和Floyd算法](https://www.toutiao.com/a6730185114266894856)
 - [10行代码实现的最短路算法—Bellmanford与SPFA](https://www.toutiao.com/a6868462514028413447/)
+- [本科必学Dijkstra算法被超越！清华段然团队打破图灵奖得主证明的普遍最优性](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247816975&idx=1&sn=1ac6131b072956bd481d9e37fe33197d)
 - [机器人是如何规划路径的？动画演示一下吧](https://www.toutiao.com/i6894096804996973070/)
 - [【算法】动态规划](https://www.toutiao.com/article/7397360803818635814/)
 - [用java实现跳表SkipList](https://www.toutiao.com/i6886679139722461707/)
