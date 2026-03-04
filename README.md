@@ -99,6 +99,7 @@ int xor(int a, int b){ return (a | b) & ~(a & b); }
 - [机器人动态规划(Dynamic Programming)入门](https://www.toutiao.com/a6822206094392164878/)
 - [算法--滑动窗口最大值数组](https://www.toutiao.com/i6723898482559549959)
 - [超详细！从本质上搞懂困惑你多年的KMP匹配算法](https://www.toutiao.com/a6798774228393918988/)
+- [刚刚，Claude独立攻克图论猜想，仅用31步！算法祖师爷高德纳震惊发文](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652680186&idx=1&sn=a9bf51f155258c0a7cb51fb5478fe0eb)
 - [四色猜想、七桥问题…程序员眼里的图论，了解下](https://www.toutiao.com/i6534572938727784968/)
 - [看一遍就学会的“图计算”入门指南](https://www.toutiao.com/article/7234045866200531513/)
 - [图优化理论基础](https://www.toutiao.com/i6508166080081428995/)
